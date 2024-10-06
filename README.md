@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Native, Flutter and AI/ML repositries
 - 💬 Ask me about Android, Flutter and Mobile development
 - 📫 How to reach me:
-     - Email: mohsinhassan63@gmail.com
+     - mohsinhassan63@gmail.com
      - [LinkedIn](www.linkedin.com/in/mohsinhassan92)
 - 😄 Pronouns: He/Him
 
