@@ -21,3 +21,7 @@ Here are some ideas to get you started:
      - Email: mohsinhassan63@gmail.com
      - [LinkedIn](www.linkedin.com/in/mohsinhassan92)
 - 😄 Pronouns: He/Him
+
+<!--START_SECTION:Activity-->
+
+<!--END_SECTION:ACtivity-->
